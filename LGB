@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lin-Glazed Beauty</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <div class="hero-content">
+                <h1>Welcome to Lin-Glazed Beauty</h1>
+                <p>Your premier destination for holistic health and beauty solutions.</p>
+            </div>
+        </section>
+        <section id="about">
+            <div class="section-content">
+                <h2>About Us</h2>
+                <p>As a specialized Weight Loss & Wellness Clinic, we are committed to enhancing your natural beauty and promoting your overall well-being.</p>
+            </div>
+        </section>
+        <section id="services">
+            <div class="section-content">
+                <h2>Our Services</h2>
+                <ul>
+                    <li>Weight Loss Solutions</li>
+                    <li>Cellulite and Stretch Mark Reduction</li>
+                    <li>Teen Skin Care</li>
+                    <li>Relaxation and Pampering</li>
+                    <li>IV Drip Therapies</li>
+                </ul>
+            </div>
+        </section>
+        <section id="contact">
+            <div class="section-content">
+                <h2>Contact Us</h2>
+                <p>Call or WhatsApp: <a href="tel:+0683432721">0683432721</a></p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Lin-Glazed Beauty. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
